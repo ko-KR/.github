@@ -1,0 +1,2 @@
+# .github
+ko-KR
